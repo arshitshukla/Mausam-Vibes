@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Mausam-Vibes/static/css/main.ccd898dc.css",
+    "main.js": "/Mausam-Vibes/static/js/main.d8f56554.js",
+    "static/js/787.c72199e8.chunk.js": "/Mausam-Vibes/static/js/787.c72199e8.chunk.js",
+    "static/media/background.jpg": "/Mausam-Vibes/static/media/background.41471d42828dc187c1b8.jpg",
+    "static/media/03d.svg": "/Mausam-Vibes/static/media/03d.30dae23b0d27445a95bb.svg",
+    "static/media/03n.svg": "/Mausam-Vibes/static/media/03n.30dae23b0d27445a95bb.svg",
+    "static/media/13d.svg": "/Mausam-Vibes/static/media/13d.831a0c3ad83abc0d2b33.svg",
+    "static/media/13n.svg": "/Mausam-Vibes/static/media/13n.831a0c3ad83abc0d2b33.svg",
+    "static/media/11d.svg": "/Mausam-Vibes/static/media/11d.3aea2975d24ac44cc7ce.svg",
+    "static/media/11n.svg": "/Mausam-Vibes/static/media/11n.3aea2975d24ac44cc7ce.svg",
+    "static/media/02d.svg": "/Mausam-Vibes/static/media/02d.5eeac778653321f11df1.svg",
+    "static/media/10d.svg": "/Mausam-Vibes/static/media/10d.5c243daa45aeb373062d.svg",
+    "static/media/10n.svg": "/Mausam-Vibes/static/media/10n.5c243daa45aeb373062d.svg",
+    "static/media/09d.svg": "/Mausam-Vibes/static/media/09d.523bf7b0b1aa331151e5.svg",
+    "static/media/09n.svg": "/Mausam-Vibes/static/media/09n.523bf7b0b1aa331151e5.svg",
+    "static/media/04d.svg": "/Mausam-Vibes/static/media/04d.e116a2e6de01e35e3f36.svg",
+    "static/media/04n.svg": "/Mausam-Vibes/static/media/04n.e116a2e6de01e35e3f36.svg",
+    "static/media/cloudy_moon.svg": "/Mausam-Vibes/static/media/cloudy_moon.1a91a96db8232cf615e7.svg",
+    "static/media/01n.svg": "/Mausam-Vibes/static/media/01n.3b25f902de8cc8374f13.svg",
+    "static/media/02n.svg": "/Mausam-Vibes/static/media/02n.19c7361f945e2271280a.svg",
+    "static/media/50d.svg": "/Mausam-Vibes/static/media/50d.a99a8b2aec6ef0e56f23.svg",
+    "static/media/50n.svg": "/Mausam-Vibes/static/media/50n.a99a8b2aec6ef0e56f23.svg",
+    "index.html": "/Mausam-Vibes/index.html",
+    "static/media/01d.svg": "/Mausam-Vibes/static/media/01d.d234fbd340ed7ded0198e3fc6b277567.svg",
+    "main.ccd898dc.css.map": "/Mausam-Vibes/static/css/main.ccd898dc.css.map",
+    "main.d8f56554.js.map": "/Mausam-Vibes/static/js/main.d8f56554.js.map",
+    "787.c72199e8.chunk.js.map": "/Mausam-Vibes/static/js/787.c72199e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd898dc.css",
+    "static/js/main.d8f56554.js"
+  ]
+}
