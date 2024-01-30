@@ -1,0 +1,97 @@
+.main {
+    position: relative;
+    top: -15px;
+    height: 480px;
+    width: 980px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 0px 0px 10px silver;
+  }
+  
+  .inner-main {
+    width: 800px;
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .inner-main p {
+    padding: 0px 0px 5px 0px;
+    position: relative;
+    transition: all 0.5s ease-out;
+    font-size: medium;
+    color: #113555;
+  }
+  
+  .inner-main > img {
+    position: relative;
+    left: -80px;
+    top: 80px;
+    width: 300px;
+    transition: visibility 2s ease-out;
+  }
+  
+  .today {
+    position: relative;
+    width: 350px;
+    top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+  }
+  
+  .today > h1 {
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    position: block;
+    color: #154066;
+    font-size: 5rem;
+    width: 800px;
+    display: flex;
+  }
+  .yellow{
+    margin-top: 80px;
+    color: rgb(255, 196, 0);
+  }
+  span{
+    /* margin-top: 80px; */
+    padding: 0%;
+  }
+  .title:before {
+    content: '';
+    background: url('../images/02d.svg') no-repeat;
+    background-size: 100%;
+    width: 250px;
+    height: 250px;
+    display: block;
+  }
+  .btn {
+    position: absolute;
+    top: 40px; 
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  button {
+    background-color: #133561;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 15px;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #0382f8;
+  }
