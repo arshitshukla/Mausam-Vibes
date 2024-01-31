@@ -20,7 +20,7 @@ const MainWeatherWindow = ({ city, data, children, isCelsius, onToggleTemperatur
                 Check another City
               </button>
               <button onClick={onToggleTemperature}>
-                {isCelsius ? "Convert to Farhenhite" :"Convert to Celcius"}
+                {isCelsius ? "Convert to Fahrenheit" :"Convert to Celsius"}
               </button>
           </div>
             <img
