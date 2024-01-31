@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mausam-Vibes/static/css/main.ccd898dc.css",
-    "main.js": "/Mausam-Vibes/static/js/main.d8f56554.js",
+    "main.css": "/Mausam-Vibes/static/css/main.58e33c2d.css",
+    "main.js": "/Mausam-Vibes/static/js/main.9a080a46.js",
     "static/js/787.c72199e8.chunk.js": "/Mausam-Vibes/static/js/787.c72199e8.chunk.js",
     "static/media/background.jpg": "/Mausam-Vibes/static/media/background.41471d42828dc187c1b8.jpg",
     "static/media/03d.svg": "/Mausam-Vibes/static/media/03d.30dae23b0d27445a95bb.svg",
@@ -24,12 +24,12 @@
     "static/media/50n.svg": "/Mausam-Vibes/static/media/50n.a99a8b2aec6ef0e56f23.svg",
     "index.html": "/Mausam-Vibes/index.html",
     "static/media/01d.svg": "/Mausam-Vibes/static/media/01d.d234fbd340ed7ded0198e3fc6b277567.svg",
-    "main.ccd898dc.css.map": "/Mausam-Vibes/static/css/main.ccd898dc.css.map",
-    "main.d8f56554.js.map": "/Mausam-Vibes/static/js/main.d8f56554.js.map",
+    "main.58e33c2d.css.map": "/Mausam-Vibes/static/css/main.58e33c2d.css.map",
+    "main.9a080a46.js.map": "/Mausam-Vibes/static/js/main.9a080a46.js.map",
     "787.c72199e8.chunk.js.map": "/Mausam-Vibes/static/js/787.c72199e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccd898dc.css",
-    "static/js/main.d8f56554.js"
+    "static/css/main.58e33c2d.css",
+    "static/js/main.9a080a46.js"
   ]
 }
