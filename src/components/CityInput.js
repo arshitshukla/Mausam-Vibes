@@ -25,16 +25,7 @@ const CityInput = ({ city, makeApiCall }) => {
   };
 
   const style = {
-    top: city ? '-580px' : '-20px',
-    width: '600px',
-    display: 'inline-block',
-    padding: '10px 0px 10px 30px',
-    lineHeight: '120%',
-    position: 'relative',
-    borderRadius: '20px',
-    outline: 'none',
-    fontSize: '20px',
-    transition: 'all 0.5s ease-out',
+    top: city ? '-680px' : '',
   };
 
   return (
@@ -43,7 +34,7 @@ const CityInput = ({ city, makeApiCall }) => {
       className='city-input'
       style={style}
       type='text'
-      placeholder='Enter a city to check the Vibes of Mausam...'
+      placeholder='Enter a city to check its Mausam Vibes...'
       onKeyDown={onKeyPressHandler}
       value={inputValue}
       onChange={(e) => setInputValue(e.target.value)}

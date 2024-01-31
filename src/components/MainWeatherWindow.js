@@ -22,7 +22,7 @@ const MainWeatherWindow = ({ city, data, children, isCelsius, onToggleTemperatur
               <button onClick={onToggleTemperature}>
                 {isCelsius ? "Convert to Farhenhite" :"Convert to Celcius"}
               </button>
-      </div>
+          </div>
             <img
               src={require(`../images/${data.icon}.svg`)}
               alt='sun'

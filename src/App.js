@@ -1,10 +1,16 @@
-import React, { useState} from 'react';
+import React, { useEffect, useState} from 'react';
 import './App.css';
 import MainWeatherWindow from './components/MainWeatherWindow';
 import CityInput from './components/CityInput';
 import WeatherBox from './components/WeatherBox';
 
 const App = () => {
+
+  useEffect(() => {
+    // Scroll to the top of the page when the component mounts
+    window.scrollTo(0, 0);
+  }, []);   
+  
   const [city, setCity] = useState(undefined);
   const [days, setDays] = useState(new Array(5).fill(null));
   const [isCelsius, setIsCelsius] = useState(true);

@@ -38,3 +38,18 @@
     padding-bottom: 2px;
     font-size: 0.93em;
   }
+
+@media screen and (max-width: 600px) {
+  .weather-box-list {
+    width: 200px;
+    position: relative;
+    top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: center;
+  }
+  .weather-box {
+    margin-top: 15px;
+  }
+}
